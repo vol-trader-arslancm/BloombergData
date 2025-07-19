@@ -1,0 +1,170 @@
+{
+  "INDX_MEMBERS": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "INDX_MWEIGHT": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "INDX_CONSTITUENT": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_MEMBERS": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "ETF_MEMBERS": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "ETF_CONSTITUENTS": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "CONSTITUENT_TICKERS": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "CONSTITUENT_WEIGHTS": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "CONSTITUENT_NAMES": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "CONSTITUENT_SHARES": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "CONSTITUENT_MKT_VAL": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "MEMBER_TICKERS": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "MEMBER_WEIGHTS": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "MEMBER_NAMES": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "MEMBERS_LIST": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "PORTFOLIO_COMPOSITION": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "PORTFOLIO_WEIGHTS": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "PORTFOLIO_CONSTITUENTS": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "ETF_PORTFOLIO_COMPOSITION": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "ETF_UNDERLYING_ASSETS": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "ETF_BASKET_COMPOSITION": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_COMPOSITION": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_CONSTITUENTS": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "SECURITY_CONSTITUENTS": {
+    "success": false,
+    "error": "Field not found in response",
+    "data_type": null,
+    "description": null,
+    "data": null
+  }
+}

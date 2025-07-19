@@ -1,0 +1,77 @@
+{
+  "timestamp": "20250718_211706",
+  "data_type": "approximate",
+  "total_holdings": 10,
+  "top_10_holdings": [
+    {
+      "ticker": "GE US Equity",
+      "name": "GENERAL ELECTRIC",
+      "price": 263.27,
+      "market_cap": 280747611502.61,
+      "weight_pct": 12.396155030941925
+    },
+    {
+      "ticker": "PM US Equity",
+      "name": "PHILIP MORRIS INTERNATIONAL",
+      "price": 178.73,
+      "market_cap": 278196315938.8599,
+      "weight_pct": 12.2835048994992
+    },
+    {
+      "ticker": "IBM US Equity",
+      "name": "INTL BUSINESS MACHINES CORP",
+      "price": 285.87,
+      "market_cap": 265686598895.25,
+      "weight_pct": 11.731149739518209
+    },
+    {
+      "ticker": "WFC US Equity",
+      "name": "WELLS FARGO & CO",
+      "price": 80.64,
+      "market_cap": 262417272445.44,
+      "weight_pct": 11.586795608411995
+    },
+    {
+      "ticker": "MS US Equity",
+      "name": "MORGAN STANLEY",
+      "price": 140.83,
+      "market_cap": 225936267021.14,
+      "weight_pct": 9.976010047302951
+    },
+    {
+      "ticker": "DIS US Equity",
+      "name": "WALT DISNEY CO/THE",
+      "price": 121.42,
+      "market_cap": 218282357081.62,
+      "weight_pct": 9.6380586264686
+    },
+    {
+      "ticker": "TXN US Equity",
+      "name": "TEXAS INSTRUMENTS INC",
+      "price": 216.62,
+      "market_cap": 196793221752.98,
+      "weight_pct": 8.689225432166477
+    },
+    {
+      "ticker": "CAT US Equity",
+      "name": "CATERPILLAR INC",
+      "price": 413.71,
+      "market_cap": 194574009548.37997,
+      "weight_pct": 8.59123813892632
+    },
+    {
+      "ticker": "VZ US Equity",
+      "name": "VERIZON COMMUNICATIONS INC",
+      "price": 40.84,
+      "market_cap": 172191850687.76,
+      "weight_pct": 7.602974304094598
+    },
+    {
+      "ticker": "QCOM US Equity",
+      "name": "QUALCOMM INC",
+      "price": 154.8,
+      "market_cap": 169970400000.00003,
+      "weight_pct": 7.504888172669721
+    }
+  ]
+}

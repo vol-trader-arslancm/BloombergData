@@ -1,0 +1,139 @@
+# Professional Volatility Analysis Suite - Git Ignore Rules
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Data Files (Sensitive Bloomberg Data)
+data/
+*.csv
+*.parquet
+*.xlsx
+*.xls
+*.json
+*.pickle
+*.pkl
+
+# Bloomberg API Keys and Credentials
+config/bloomberg_credentials.*
+config/api_keys.*
+.bloomberg/
+*.p12
+*.pfx
+
+# Logs
+logs/
+*.log
+test_logs/
+
+# Temporary Files
+.tmp/
+temp/
+tmp/
+*.tmp
+*.temp
+
+# Backup Files
+backups/
+*.bak
+*.backup
+
+# IDE/Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Sphinx Documentation
+docs/_build/
+docs/build/
+
+# PyCharm
+.idea/
+
+# Reports and Output
+reports/*.pdf
+reports/*.png
+reports/*.jpg
+reports/*.html
+
+# Environment Variables
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Package Files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Specific to this project
+data/historical_volatility/*.csv
+data/historical_volatility/*.parquet
+data/processed/spx_weights/*.csv
+data/transfer/*.zip
+config/personal_config.py

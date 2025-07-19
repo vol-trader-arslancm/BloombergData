@@ -1,0 +1,20 @@
+{
+  "collection_timestamp": "20250719_130151",
+  "date_range": "20220720 to 20250719",
+  "total_observations": 76699,
+  "securities_count": 51,
+  "data_types": [
+    "realized",
+    "implied"
+  ],
+  "date_coverage": {
+    "start_date": "2022-07-20T00:00:00",
+    "end_date": "2025-07-18T00:00:00",
+    "total_days": 752
+  },
+  "data_quality": {
+    "realized_vol_observations": 38352,
+    "implied_vol_observations": 38347,
+    "missing_data_pct": 56.66644936700609
+  }
+}

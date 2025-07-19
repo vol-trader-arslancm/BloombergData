@@ -1,0 +1,122 @@
+2025-07-18 20:39:14,683 - INFO - ============================================================
+2025-07-18 20:39:14,685 - INFO - DAILY BLOOMBERG DATA COLLECTION STARTED
+2025-07-18 20:39:14,685 - INFO - ============================================================
+2025-07-18 20:39:14,685 - INFO - Starting Current Volatility Data...
+2025-07-18 20:39:14,750 - INFO - Retrying Current Volatility Data (attempt 2)
+2025-07-18 20:40:00,588 - INFO - ============================================================
+2025-07-18 20:40:00,588 - INFO - DAILY BLOOMBERG DATA COLLECTION STARTED
+2025-07-18 20:40:00,588 - INFO - ============================================================
+2025-07-18 20:40:00,589 - INFO - Starting Current Volatility Data...
+2025-07-18 20:40:00,642 - INFO - Retrying Current Volatility Data (attempt 2)
+2025-07-18 20:51:21,233 - INFO - Starting Current Volatility Data...
+2025-07-18 20:51:22,343 - ERROR - FAILED: Current Volatility Data failed with return code 1
+2025-07-18 20:51:22,343 - ERROR - STDERR: Traceback (most recent call last):
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_volatility_data.py", line 45, in connect
+    print("\u2705 Connected to Bloomberg for volatility data")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\acmuser\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_volatility_data.py", line 307, in main
+    if not fetcher.connect():
+           ~~~~~~~~~~~~~~~^^
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_volatility_data.py", line 49, in connect
+    print(f"\u274c Bloomberg connection failed: {e}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\acmuser\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_volatility_data.py", line 360, in main
+    print(f"\u274c Error in main execution: {e}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\acmuser\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_volatility_data.py", line 367, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_volatility_data.py", line 364, in main
+    fetcher.disconnect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_volatility_data.py", line 270, in disconnect
+    print("\u2705 Bloomberg session disconnected")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\acmuser\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+
+2025-07-18 20:55:31,372 - INFO - ============================================================
+2025-07-18 20:55:31,373 - INFO - DAILY BLOOMBERG DATA COLLECTION STARTED
+2025-07-18 20:55:31,373 - INFO - ============================================================
+2025-07-18 20:55:31,373 - INFO - Starting Current Volatility Data...
+2025-07-18 20:55:34,613 - INFO - SUCCESS: Current Volatility Data completed successfully
+2025-07-18 20:55:34,613 - INFO - Starting SPY Weights Data...
+2025-07-18 20:55:35,744 - ERROR - FAILED: SPY Weights Data failed with return code 1
+2025-07-18 20:55:35,744 - ERROR - STDERR: Traceback (most recent call last):
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_spy_weights.py", line 48, in connect
+    print("\u2705 Connected to Bloomberg for SPY weights data")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\acmuser\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_spy_weights.py", line 344, in main
+    if not fetcher.connect():
+           ~~~~~~~~~~~~~~~^^
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_spy_weights.py", line 52, in connect
+    print(f"\u274c Bloomberg connection failed: {e}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\acmuser\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_spy_weights.py", line 390, in main
+    print(f"\u274c Error in main execution: {e}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\acmuser\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_spy_weights.py", line 397, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_spy_weights.py", line 394, in main
+    fetcher.disconnect()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\acmuser\PycharmProjects\BloombergData\scripts\fetch_spy_weights.py", line 332, in disconnect
+    print("\u2705 Bloomberg session disconnected")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\acmuser\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>
+
+2025-07-18 20:55:35,746 - INFO - Retrying SPY Weights Data (attempt 2)

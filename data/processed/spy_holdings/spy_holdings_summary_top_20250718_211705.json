@@ -1,0 +1,9 @@
+{
+  "timestamp": "20250718_211705",
+  "data_type": "top",
+  "raw_data_fields": [
+    "FUND_TOTAL_ASSETS",
+    "FUND_NET_ASSET_VAL",
+    "FUND_EXPENSE_RATIO"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "collection_timestamp": "20250719_124057",
+  "collection_date": "2025-07-19",
+  "total_components": 253,
+  "total_market_cap_usd": 30384896609021.46,
+  "top_10_holdings": [
+    {
+      "rank": 1,
+      "ticker": "NVDA US Equity",
+      "NAME": "NVIDIA CORP",
+      "market_cap_weight_pct": 13.84504957884561
+    },
+    {
+      "rank": 2,
+      "ticker": "AAPL US Equity",
+      "NAME": "APPLE INC",
+      "market_cap_weight_pct": 10.38064330205262
+    },
+    {
+      "rank": 3,
+      "ticker": "AMZN US Equity",
+      "NAME": "AMAZON.COM INC",
+      "market_cap_weight_pct": 7.900885103167125
+    },
+    {
+      "rank": 4,
+      "ticker": "META US Equity",
+      "NAME": "META PLATFORMS INC-CLASS A",
+      "market_cap_weight_pct": 5.8278638157352205
+    },
+    {
+      "rank": 5,
+      "ticker": "AVGO US Equity",
+      "NAME": "BROADCOM INC",
+      "market_cap_weight_pct": 4.385999677202055
+    },
+    {
+      "rank": 6,
+      "ticker": "V US Equity",
+      "NAME": "VISA INC-CLASS A SHARES",
+      "market_cap_weight_pct": 2.2769896659846784
+    },
+    {
+      "rank": 7,
+      "ticker": "NFLX US Equity",
+      "NAME": "NETFLIX INC",
+      "market_cap_weight_pct": 1.691096538023033
+    },
+    {
+      "rank": 8,
+      "ticker": "MA US Equity",
+      "NAME": "MASTERCARD INC - A",
+      "market_cap_weight_pct": 1.6516152935606174
+    },
+    {
+      "rank": 9,
+      "ticker": "XOM US Equity",
+      "NAME": "EXXON MOBIL CORP",
+      "market_cap_weight_pct": 1.5285547346614037
+    },
+    {
+      "rank": 10,
+      "ticker": "PG US Equity",
+      "NAME": "PROCTER & GAMBLE CO/THE",
+      "market_cap_weight_pct": 1.1967737595178567
+    }
+  ],
+  "sector_breakdown": {
+    "Communication Services": 9.989751018319396,
+    "Consumer Discretionary": 12.546977022162217,
+    "Consumer Staples": 3.682820820220351,
+    "Energy": 2.506375344557,
+    "Financials": 10.753278966516623,
+    "Health Care": 7.304473357333951,
+    "Industrials": 9.018830478647999,
+    "Information Technology": 38.15584977105737,
+    "Materials": 1.434527619833844,
+    "Real Estate": 2.4654097894920066,
+    "Utilities": 2.141705811859227
+  },
+  "data_quality": {
+    "components_with_market_cap": 253,
+    "components_with_names": 253,
+    "components_with_sectors": 253,
+    "weight_coverage_pct": 99.99999999999999
+  }
+}

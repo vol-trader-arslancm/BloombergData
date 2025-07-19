@@ -1,0 +1,18 @@
+{
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "lawrence@arslancm.com",
+    "sender_password": "rypv mlgt irva mgqo",
+    "recipient_emails": ["lawrence@arslancm.com"]
+  },
+  "slack": {
+    "webhook_url": "https://hooks.slack.com/services/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",
+    "channel": "#vol-trading"
+  },
+  "collection": {
+    "max_retries": 3,
+    "retry_delay_minutes": 30,
+    "data_quality_threshold": 0.8
+  }
+}

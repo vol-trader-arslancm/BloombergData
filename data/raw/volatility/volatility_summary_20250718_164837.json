@@ -1,0 +1,44 @@
+{
+  "timestamp": "20250718_164837",
+  "total_securities": 17,
+  "securities_processed": [
+    "SPX Index",
+    "SPY US Equity",
+    "AAPL US Equity",
+    "MSFT US Equity",
+    "NVDA US Equity",
+    "AMZN US Equity",
+    "META US Equity",
+    "GOOGL US Equity",
+    "GOOG US Equity",
+    "LLY US Equity",
+    "AVGO US Equity",
+    "JPM US Equity",
+    "TSLA US Equity",
+    "WMT US Equity",
+    "V US Equity",
+    "UNH US Equity",
+    "XOM US Equity",
+    "MA US Equity",
+    "PG US Equity",
+    "JNJ US Equity",
+    "COST US Equity",
+    "HD US Equity"
+  ],
+  "fields_collected": [
+    "VOLATILITY_30D",
+    "VOLATILITY_90D",
+    "VOLATILITY_120D",
+    "VOLATILITY_260D",
+    "1MTH_IMPVOL_100.0%MNY_DF",
+    "3MTH_IMPVOL_100.0%MNY_DF",
+    "6MTH_IMPVOL_100.0%MNY_DF",
+    "12MTH_IMPVOL_100.0%MNY_DF"
+  ],
+  "spx_surface_available": true,
+  "data_quality": {
+    "vol_30d_available": 17,
+    "vol_90d_available": 17,
+    "implied_vol_available": 3
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "collection_timestamp": "20250718_205519",
+  "spx_ticker": "SPX Index",
+  "volatility_surface_labeled": {
+    "implied_vol_1m_atm": null,
+    "implied_vol_2m_atm": null,
+    "implied_vol_3m_atm": 14.9244,
+    "implied_vol_6m_atm": 15.9496,
+    "implied_vol_12m_atm": 16.6305,
+    "implied_vol_3m_90_moneyness": 22.1647,
+    "implied_vol_3m_95_moneyness": 18.6675,
+    "implied_vol_3m_100_moneyness": 14.9244,
+    "implied_vol_3m_105_moneyness": 12.1124,
+    "implied_vol_3m_110_moneyness": 11.1861
+  },
+  "field_descriptions": {
+    "implied_vol_1m_atm": "1-month at-the-money implied volatility",
+    "implied_vol_3m_atm": "3-month at-the-money implied volatility",
+    "implied_vol_3m_90_moneyness": "3-month 90% moneyness implied volatility (put side)",
+    "implied_vol_3m_110_moneyness": "3-month 110% moneyness implied volatility (call side)"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "timestamp": "20250718_195419",
+  "data_type": "implied_vol",
+  "start_date": "20240101",
+  "end_date": "20250718",
+  "total_observations": 8122,
+  "securities_count": 21,
+  "date_range": {
+    "first_date": "2024-01-02T00:00:00",
+    "last_date": "2025-07-18T00:00:00"
+  },
+  "fields_collected": [
+    "1MTH_IMPVOL_100.0%MNY_DF",
+    "3MTH_IMPVOL_100.0%MNY_DF",
+    "6MTH_IMPVOL_100.0%MNY_DF"
+  ],
+  "data_quality": {
+    "total_possible_observations": 8127,
+    "actual_observations": 8122,
+    "completeness_pct": 99.94
+  }
+}

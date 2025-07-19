@@ -1,0 +1,43 @@
+{
+  "collection_info": {
+    "timestamp": "20250719_141608",
+    "collection_period_days": 3653,
+    "start_date": "2015-07-19",
+    "end_date": "2025-07-19"
+  },
+  "data_summary": {
+    "total_observations": 252598,
+    "securities_count": 51,
+    "data_types": [
+      "realized",
+      "implied"
+    ],
+    "date_coverage": {
+      "first_date": "2015-07-20T00:00:00",
+      "last_date": "2025-07-18T00:00:00",
+      "trading_days": 2515
+    }
+  },
+  "data_quality": {
+    "realized_observations": 126297,
+    "implied_observations": 126301,
+    "spx_observations": 5030,
+    "component_observations": 247568,
+    "completeness_by_field": {
+      "realized_vol_30d": 50.0,
+      "realized_vol_90d": 49.98,
+      "realized_vol_180d": 49.94,
+      "realized_vol_252d": 49.91,
+      "implied_vol_1m_atm": 0.0,
+      "implied_vol_3m_atm": 50.0,
+      "implied_vol_6m_atm": 50.0,
+      "implied_vol_12m_atm": 50.0
+    }
+  },
+  "file_info": {
+    "csv_file": "C:\\Users\\acmuser\\PycharmProjects\\BloombergData\\data\\historical_volatility\\ten_year_volatility_data_20250719_141608.csv",
+    "parquet_file": "C:\\Users\\acmuser\\PycharmProjects\\BloombergData\\data\\historical_volatility\\ten_year_volatility_data_20250719_141608.parquet",
+    "latest_csv": "C:\\Users\\acmuser\\PycharmProjects\\BloombergData\\data\\historical_volatility\\ten_year_volatility_latest.csv",
+    "latest_parquet": "C:\\Users\\acmuser\\PycharmProjects\\BloombergData\\data\\historical_volatility\\ten_year_volatility_latest.parquet"
+  }
+}

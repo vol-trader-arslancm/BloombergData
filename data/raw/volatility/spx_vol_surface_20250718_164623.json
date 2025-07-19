@@ -1,0 +1,15 @@
+{
+  "timestamp": "20250718_164623",
+  "spx_ticker": "SPX Index",
+  "volatility_surface": {
+    "1MTH_IMPVOL_100.0%MNY_DF": null,
+    "2MTH_IMPVOL_100.0%MNY_DF": null,
+    "3MTH_IMPVOL_100.0%MNY_DF": 14.9244,
+    "6MTH_IMPVOL_100.0%MNY_DF": 15.9496,
+    "12MTH_IMPVOL_100.0%MNY_DF": 16.6305,
+    "3MTH_IMPVOL_90.0%MNY_DF": 22.1647,
+    "3MTH_IMPVOL_95.0%MNY_DF": 18.6675,
+    "3MTH_IMPVOL_105.0%MNY_DF": 12.1124,
+    "3MTH_IMPVOL_110.0%MNY_DF": 11.1861
+  }
+}

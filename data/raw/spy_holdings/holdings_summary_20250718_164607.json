@@ -1,0 +1,57 @@
+{
+  "timestamp": "20250718_164607",
+  "total_holdings": 50,
+  "total_market_cap": 36167416172150.96,
+  "top_10_holdings": [
+    {
+      "ticker": "NVDA US Equity",
+      "NAME": "NVIDIA CORP",
+      "weight_pct": 11.6314750823678
+    },
+    {
+      "ticker": "MSFT US Equity",
+      "NAME": "MICROSOFT CORP",
+      "weight_pct": 10.481724711267349
+    },
+    {
+      "ticker": "AAPL US Equity",
+      "NAME": "APPLE INC",
+      "weight_pct": 8.720965079912748
+    },
+    {
+      "ticker": "AMZN US Equity",
+      "NAME": "AMAZON.COM INC",
+      "weight_pct": 6.637675631480248
+    },
+    {
+      "ticker": "GOOGL US Equity",
+      "NAME": "ALPHABET INC-CL A",
+      "weight_pct": 6.223512482302202
+    },
+    {
+      "ticker": "GOOG US Equity",
+      "NAME": "ALPHABET INC-CL C",
+      "weight_pct": 6.223512482302202
+    },
+    {
+      "ticker": "META US Equity",
+      "NAME": "META PLATFORMS INC-CLASS A",
+      "weight_pct": 4.896093175406971
+    },
+    {
+      "ticker": "AVGO US Equity",
+      "NAME": "BROADCOM INC",
+      "weight_pct": 3.68475718820088
+    },
+    {
+      "ticker": "TSLA US Equity",
+      "NAME": "TESLA INC",
+      "weight_pct": 2.935759109531664
+    },
+    {
+      "ticker": "BRK/B US Equity",
+      "NAME": "BERKSHIRE HATHAWAY INC-CL B",
+      "weight_pct": 2.82656951053051
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "FUND_HOLDINGS": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_HOLDINGS_TICKER_AND_EXCHANGE": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_PORTFOLIO_HOLDINGS": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_HOLDINGS_MARKET_VALUE": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_HOLDINGS_PERCENT_OF_FUND": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_HOLDINGS_SHARES": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_HOLDINGS_MWEIGHT": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_HOLDINGS_NAME": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_HOLDINGS_DETAILS": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_TOP_10_HOLDINGS": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_TOP_5_HOLDINGS": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_TOP_20_HOLDINGS": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_TOP_HOLDINGS": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "PORTFOLIO_HOLDINGS": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "PORTFOLIO_TOP_HOLDINGS": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "PORTFOLIO_SECURITIES": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "ETF_HOLDINGS": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "ETF_PORTFOLIO": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "HOLDINGS_LIST": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "SECURITIES_HELD": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_SECURITY_NAME": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_SECURITY_TICKER": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_SECURITY_WEIGHT": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_CONSTITUENT_TICKER": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  },
+  "FUND_CONSTITUENT_WEIGHT": {
+    "success": false,
+    "error": "Choice sub-element not found for name 'securityData'. (0x00020002)",
+    "data_type": null,
+    "description": null,
+    "data": null
+  }
+}

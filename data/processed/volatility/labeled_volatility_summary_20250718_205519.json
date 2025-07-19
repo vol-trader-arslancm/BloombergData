@@ -1,0 +1,47 @@
+{
+  "collection_timestamp": "20250718_205519",
+  "total_securities": 17,
+  "securities_processed": [
+    "SPX Index",
+    "SPY US Equity",
+    "AAPL US Equity",
+    "MSFT US Equity",
+    "NVDA US Equity",
+    "AMZN US Equity",
+    "META US Equity",
+    "GOOGL US Equity",
+    "GOOG US Equity",
+    "LLY US Equity",
+    "AVGO US Equity",
+    "JPM US Equity",
+    "TSLA US Equity",
+    "WMT US Equity",
+    "V US Equity",
+    "UNH US Equity",
+    "XOM US Equity",
+    "MA US Equity",
+    "PG US Equity",
+    "JNJ US Equity",
+    "COST US Equity",
+    "HD US Equity"
+  ],
+  "field_descriptions": {
+    "realized_volatility": {
+      "realized_vol_30d": "30-day realized (historical) volatility",
+      "realized_vol_90d": "90-day realized (historical) volatility",
+      "realized_vol_120d": "120-day realized (historical) volatility",
+      "realized_vol_260d": "260-day realized (historical) volatility"
+    },
+    "implied_volatility": {
+      "implied_vol_1m_atm": "1-month at-the-money implied volatility",
+      "implied_vol_3m_atm": "3-month at-the-money implied volatility",
+      "implied_vol_6m_atm": "6-month at-the-money implied volatility"
+    }
+  },
+  "data_quality": {
+    "realized_vol_30d_coverage": 17,
+    "realized_vol_90d_coverage": 17,
+    "implied_vol_3m_atm_coverage": 17
+  },
+  "spx_surface_available": true
+}

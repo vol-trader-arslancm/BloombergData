@@ -1,0 +1,23 @@
+{
+  "timestamp": "20250718_195413",
+  "data_type": "realized_vol",
+  "start_date": "20240101",
+  "end_date": "20250718",
+  "total_observations": 8127,
+  "securities_count": 21,
+  "date_range": {
+    "first_date": "2024-01-02T00:00:00",
+    "last_date": "2025-07-18T00:00:00"
+  },
+  "fields_collected": [
+    "VOLATILITY_30D",
+    "VOLATILITY_90D",
+    "VOLATILITY_120D",
+    "VOLATILITY_260D"
+  ],
+  "data_quality": {
+    "total_possible_observations": 8127,
+    "actual_observations": 8127,
+    "completeness_pct": 100.0
+  }
+}

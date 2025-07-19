@@ -1,0 +1,30 @@
+{
+  "analysis_date": "2025-07-19T14:01:57.810140",
+  "spx_risk_premiums": {
+    "90_day": {
+      "mean_premium": 0.14093258845437623,
+      "std_premium": 4.537956747473443,
+      "sharpe_ratio": 0.03105639747069912,
+      "win_rate": 67.97020484171323
+    },
+    "180_day": {
+      "mean_premium": 1.7460936986301367,
+      "std_premium": 3.5291379631511557,
+      "sharpe_ratio": 0.4947649303772345,
+      "win_rate": 83.28767123287672
+    },
+    "252_day": {
+      "mean_premium": 3.061208944543828,
+      "std_premium": 2.9737724777792383,
+      "sharpe_ratio": 1.0294025408527172,
+      "win_rate": 84.61538461538461
+    }
+  },
+  "data_quality": {
+    "total_observations": 76699,
+    "date_range": {
+      "start": "2022-07-20T00:00:00",
+      "end": "2025-07-18T00:00:00"
+    }
+  }
+}
