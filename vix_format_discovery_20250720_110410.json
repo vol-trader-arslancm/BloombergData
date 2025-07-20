@@ -1,0 +1,249 @@
+{
+  "working_formats": [
+    {
+      "ticker": "VIX 08/20/25 C20 Index",
+      "result": "Price: 1.58"
+    }
+  ],
+  "failed_formats": [
+    {
+      "ticker": "VIX20250820 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:21939]"
+    },
+    {
+      "ticker": "VIX Aug25 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19562]"
+    },
+    {
+      "ticker": "VIX20250820C20",
+      "error": "Error: Unknown/Invalid Security  [nid:21935]"
+    },
+    {
+      "ticker": ".VIX Aug 25 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19425]"
+    },
+    {
+      "ticker": "VIX08/20/25C20",
+      "error": "Error: Unknown/Invalid Security  [nid:19412]"
+    },
+    {
+      "ticker": "VIX Aug25 C 20",
+      "error": "Error: Unknown/Invalid Security  [nid:23008]"
+    },
+    {
+      "ticker": ".VIX 08/20/25 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19465]"
+    },
+    {
+      "ticker": "VIX 250820 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:21926]"
+    },
+    {
+      "ticker": "VIX 20250820 C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23099]"
+    },
+    {
+      "ticker": "VIX Aug25 C 20.00 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19434]"
+    },
+    {
+      "ticker": "VIX250820 C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19355]"
+    },
+    {
+      "ticker": "VIX 082025C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19488]"
+    },
+    {
+      "ticker": "VIX 20250820 C 20",
+      "error": "Error: Unknown/Invalid Security  [nid:22090]"
+    },
+    {
+      "ticker": "VIX 08/20/25 C 20.00 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19534]"
+    },
+    {
+      "ticker": "VIXAug25 C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23121]"
+    },
+    {
+      "ticker": "VIX08/20/25 C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:21930]"
+    },
+    {
+      "ticker": "VIX 08/20/25 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:21937]"
+    },
+    {
+      "ticker": "VIX 250820 Call 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19559]"
+    },
+    {
+      "ticker": "VIX 250820 C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:21927]"
+    },
+    {
+      "ticker": "VIXAug 25 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:24198]"
+    },
+    {
+      "ticker": "VIX 082025 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:21941]"
+    },
+    {
+      "ticker": "VIX 250820 C 20.00 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:24057]"
+    },
+    {
+      "ticker": "VIX 20250820C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19556]"
+    },
+    {
+      "ticker": "VIX 250820C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23462]"
+    },
+    {
+      "ticker": ".VIX 250820 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:21931]"
+    },
+    {
+      "ticker": "VIX 082025 Call 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23102]"
+    },
+    {
+      "ticker": "VIX250820C20",
+      "error": "Error: Unknown/Invalid Security  [nid:24196]"
+    },
+    {
+      "ticker": "VIX 20250820 Call 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23009]"
+    },
+    {
+      "ticker": "VIX082025 C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23010]"
+    },
+    {
+      "ticker": "VIX 08/20/25 Call 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19560]"
+    },
+    {
+      "ticker": "VIX 250820 C 20",
+      "error": "Error: Unknown/Invalid Security  [nid:23106]"
+    },
+    {
+      "ticker": "VIX08/20/25 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:21934]"
+    },
+    {
+      "ticker": "VIX20250820 C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:21933]"
+    },
+    {
+      "ticker": "VIX 20250820 C 20.00 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23007]"
+    },
+    {
+      "ticker": "VIX Aug 25 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19354]"
+    },
+    {
+      "ticker": ".VIX 082025 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23927]"
+    },
+    {
+      "ticker": "VIXAug25 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19365]"
+    },
+    {
+      "ticker": "VIX Aug 25 C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19432]"
+    },
+    {
+      "ticker": "VIX 082025 C 20",
+      "error": "Error: Unknown/Invalid Security  [nid:23890]"
+    },
+    {
+      "ticker": "VIX Aug 25 C 20",
+      "error": "Error: Unknown/Invalid Security  [nid:19392]"
+    },
+    {
+      "ticker": "VIX Aug 25 Call 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23100]"
+    },
+    {
+      "ticker": "VIXAug 25C20",
+      "error": "Error: Unknown/Invalid Security  [nid:24137]"
+    },
+    {
+      "ticker": "VIX 082025 C 20.00 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19390]"
+    },
+    {
+      "ticker": "VIX250820 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19433]"
+    },
+    {
+      "ticker": ".VIX Aug25 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23118]"
+    },
+    {
+      "ticker": "VIX082025C20",
+      "error": "Error: Unknown/Invalid Security  [nid:23926]"
+    },
+    {
+      "ticker": "VIX082025 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23600]"
+    },
+    {
+      "ticker": "VIX Aug25 Call 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:21929]"
+    },
+    {
+      "ticker": "VIX Aug 25 C 20.00 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:21932]"
+    },
+    {
+      "ticker": "VIX Aug 25C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19499]"
+    },
+    {
+      "ticker": "VIX Aug25C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23762]"
+    },
+    {
+      "ticker": "VIX 08/20/25 C 20",
+      "error": "Error: Unknown/Invalid Security  [nid:21928]"
+    },
+    {
+      "ticker": "VIX Aug25 C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19435]"
+    },
+    {
+      "ticker": "VIX 082025 C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23210]"
+    },
+    {
+      "ticker": "VIX 20250820 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:19533]"
+    },
+    {
+      "ticker": "VIX 08/20/25C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:21943]"
+    },
+    {
+      "ticker": "VIXAug25C20",
+      "error": "Error: Unknown/Invalid Security  [nid:23120]"
+    },
+    {
+      "ticker": "VIXAug 25 C20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:24061]"
+    },
+    {
+      "ticker": ".VIX 20250820 C 20 Index",
+      "error": "Error: Unknown/Invalid Security  [nid:23107]"
+    }
+  ],
+  "total_tested": 60,
+  "working_count": 1,
+  "timestamp": "20250720_110410"
+}

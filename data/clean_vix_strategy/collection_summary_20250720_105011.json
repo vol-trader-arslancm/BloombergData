@@ -1,0 +1,13 @@
+{
+  "timestamp": "20250720_105011",
+  "vix_spot_records": 257,
+  "vix_futures_records": 372,
+  "working_options_count": 5,
+  "working_options": [
+    "VIX 250820 C 15 Index",
+    "VIX 250820 C 18 Index",
+    "VIX 250820 C 20 Index",
+    "VIX 250820 C 25 Index",
+    "VIX 250820 C 30 Index"
+  ]
+}

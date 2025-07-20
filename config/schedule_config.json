@@ -1,0 +1,10 @@
+{
+  "daily_collection_time": "18:30",
+  "weekend_collection": false,
+  "retry_attempts": 3,
+  "retry_delay_minutes": 15,
+  "alert_on_success": true,
+  "alert_on_failure": true,
+  "data_validation": true,
+  "timezone": "US/Eastern"
+}

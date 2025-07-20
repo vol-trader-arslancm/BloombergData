@@ -1,0 +1,49 @@
+{
+  "timestamp": "20250720_110829",
+  "strategy_description": "SHORT 1x 50\u0394 call + LONG 2x 10\u0394 calls + UX1 futures hedge",
+  "working_vix_option_format": "VIX MM/DD/YY C{strike} Index",
+  "working_futures_format": "UX1 Index",
+  "expiry_dates_generated": 16,
+  "current_options_tested": 19,
+  "target_positions_identified": 2,
+  "futures_records_collected": 124,
+  "strategy_ready": true,
+  "target_positions": [
+    {
+      "ticker": "VIX 08/20/25 C38 Index",
+      "expiry_date": "2025-08-20",
+      "target_delta": 10,
+      "actual_delta": 0.106601,
+      "delta_error": 0.006600999999999996,
+      "strike": 38,
+      "entry_price": 0.38,
+      "quantity": 2,
+      "position_type": "LONG",
+      "entry_date": "2025-07-20",
+      "bid": 0.24,
+      "ask": 0.52,
+      "gamma": 0.003942,
+      "theta": -0.02495,
+      "vega": 0.010504,
+      "ivol": 155.638
+    },
+    {
+      "ticker": "VIX 08/20/25 C20 Index",
+      "expiry_date": "2025-08-20",
+      "target_delta": 50,
+      "actual_delta": 0.480615,
+      "delta_error": 0.019384999999999986,
+      "strike": 20,
+      "entry_price": 1.6099999999999999,
+      "quantity": -1,
+      "position_type": "SHORT",
+      "entry_date": "2025-07-20",
+      "bid": 1.47,
+      "ask": 1.75,
+      "gamma": 0.015208,
+      "theta": -0.030085,
+      "vega": 0.022709,
+      "ivol": 87.20995
+    }
+  ]
+}

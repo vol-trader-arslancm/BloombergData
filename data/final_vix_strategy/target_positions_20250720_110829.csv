@@ -1,0 +1,3 @@
+ticker,expiry_date,target_delta,actual_delta,delta_error,strike,entry_price,quantity,position_type,entry_date,bid,ask,gamma,theta,vega,ivol
+VIX 08/20/25 C38 Index,2025-08-20,10,0.106601,0.006600999999999996,38,0.38,2,LONG,2025-07-20,0.24,0.52,0.003942,-0.02495,0.010504,155.638
+VIX 08/20/25 C20 Index,2025-08-20,50,0.480615,0.019384999999999986,20,1.6099999999999999,-1,SHORT,2025-07-20,1.47,1.75,0.015208,-0.030085,0.022709,87.20995

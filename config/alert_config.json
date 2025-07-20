@@ -1,0 +1,15 @@
+{
+  "email": {
+    "enabled": true,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "lawrence@arslancm.com",
+    "password": "rypv migt irva mgqo",
+    "recipients": ["lawrence@arslancm.com"]
+  },
+  "slack": {
+    "enabled": false,
+    "webhook_url": "https://hooks.slack.com/services/YOUR/WEBHOOK/URL",
+    "channel": "#trading-alerts"
+  }
+}

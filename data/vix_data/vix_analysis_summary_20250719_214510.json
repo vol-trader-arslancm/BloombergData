@@ -1,0 +1,15 @@
+{
+  "collection_timestamp": "20250719_214510",
+  "data_period": {
+    "start_date": "2015-07-19",
+    "end_date": "2025-07-19"
+  },
+  "data_summary": {
+    "futures_records": 0,
+    "total_options_records": 21430,
+    "target_delta_records": 0,
+    "unique_futures": 0,
+    "target_delta_breakdown": {}
+  },
+  "files_created": []
+}
